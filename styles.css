@@ -5,10 +5,10 @@
 	height:100px;
 	background-color:indianred;
 	display:flex;
-	flex-wrap:wrap;
+/* 	flex-wrap:wrap; */
 	justify-content:center;
 	align-items:center;
-	flex:0 0 auto;
+/* 	flex:0 0 auto; */
 	
 }
 .item-1{
