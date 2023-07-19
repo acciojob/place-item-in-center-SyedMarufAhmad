@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.holder{
+	width:100px;
+	height:100px;
+	background-color:indianred;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	align-items:center;
+	flex:0 0 auto;
+	
+}
+.item-1{
+	font-size:40px;
+/* margin-left:auto;
+	margin-right:auto; */
+}
